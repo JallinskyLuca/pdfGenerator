@@ -1,0 +1,8 @@
+pagina principal gui_app.py
+
+seccion carga de productos/servicios
+falta agregar descripcion y precio para guiar al usuario
+
+en la parte del dashboard dice solo unidades y la cantidad. unidades de que? estaria bueno que hagas una tabla con la cantidades de unidadesde que se vendieron de cada una y cuanto es el total de todas las ventas de ese producto y el total de la suma de todos los productos. la parte del grafico me gusta asi que no la modifiques o si la modificas que sea para mejorarla.
+
+en la parte de gestionar datos solo tenes la opcion de eliminar me gustaria que agregues dejes el boton de borrar y agregues otro al lado para editar por ej si una persona cambia de celular no quiero borrar todos los datos del perfil quiero poder cambiar solo en numero. y en la parte de productos lo mismo con la inflacion tengo que modificar precios me gustaria que se pueda modificar la parte esa tambien 
